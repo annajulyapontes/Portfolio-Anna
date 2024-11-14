@@ -12,7 +12,7 @@
   --second-bg-color: #808080;
   --text-color:#fbfbfe;
   --second-text-color: #000;
-  --main-color: #001aff;
+  --main-color: #92068b;
   --height-nav: 3em;
   --padding-container: 3em 0;
   --border-bottom: 4px solid var(--main-color);
@@ -34,7 +34,7 @@ body{
   font-size: var(--normal-font-size);
   color: var(--text-color);
   background-color: var(--bg-color);
-  background: url('bg-desktop.webp');
+  background: url('stars-13910_256.gif');
 }
 
 li{
